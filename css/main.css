@@ -263,3 +263,10 @@ textarea {
   }
 }
 
+
+
+h1,p{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
