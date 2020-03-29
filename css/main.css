@@ -278,7 +278,7 @@ span:hover{
 
 .fat-container{
   width: 30%;
-  margin: 3% auto 0 auto;
+  margin: 2% auto 0 auto;
 }
 
 
@@ -287,7 +287,7 @@ span:hover{
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
   .fat-container{
     width: 90%;
-    margin: 3% auto 0 auto;
+    margin: 2% auto 0 auto;
   }
   }
   
@@ -295,7 +295,7 @@ span:hover{
   @media only screen and (min-width : 321px) {
     .fat-container{
       width: 90%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   
@@ -303,7 +303,7 @@ span:hover{
   @media only screen and (max-width : 320px) {
     .fat-container{
       width: 90%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   
@@ -311,7 +311,7 @@ span:hover{
   @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
     .fat-container{
 width: 60%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   
@@ -319,7 +319,7 @@ width: 60%;
   @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
     .fat-container{
 width: 60%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   
@@ -327,7 +327,7 @@ width: 60%;
   @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
     .fat-container{
       width: 50%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   /**********
@@ -336,21 +336,21 @@ width: 60%;
   @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
     .fat-container{
       width: 50%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   
   @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
     .fat-container{
       width: 50%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   /* Desktops and laptops ----------- */
   @media only screen  and (min-width : 1224px) {
     .fat-container{
       width: 30%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   
@@ -358,7 +358,7 @@ width: 60%;
   @media only screen  and (min-width : 1824px) {
     .fat-container{
       width: 30%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   
@@ -366,14 +366,14 @@ width: 60%;
   @media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
       .fat-container{
 width: 60%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   
   @media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
       .fat-container{
 width: 60%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   
@@ -381,14 +381,14 @@ width: 60%;
   @media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
       .fat-container{
 width: 60%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   
   @media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
       .fat-container{
 width: 60%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   
@@ -396,14 +396,14 @@ width: 60%;
   @media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
       .fat-container{
 width: 60%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   
   @media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
       .fat-container{
 width: 60%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   
@@ -411,14 +411,14 @@ width: 60%;
   @media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
       .fat-container{
 width: 60%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   
   @media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
       .fat-container{
 width: 60%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   
@@ -426,14 +426,14 @@ width: 60%;
   @media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
       .fat-container{
 width: 60%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   
   @media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
       .fat-container{
 width: 60%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   
@@ -441,14 +441,14 @@ width: 60%;
   @media only screen and (min-device-width: 414px) and (max-device-height: 896px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
       .fat-container{
 width: 60%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   
   @media only screen and (min-device-width: 414px) and (max-device-height: 896px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
       .fat-container{
 width: 60%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   
@@ -456,14 +456,14 @@ width: 60%;
   @media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
       .fat-container{
 width: 60%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   
   @media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
       .fat-container{
 width: 60%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   
@@ -471,14 +471,14 @@ width: 60%;
   @media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
       .fat-container{
 width: 60%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   
   @media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
       .fat-container{
 width: 60%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   
@@ -486,13 +486,13 @@ width: 60%;
   @media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
       .fat-container{
 width: 60%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }
   
   @media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
       .fat-container{
 width: 60%;
-      margin: 3% auto 0 auto;
+      margin: 2% auto 0 auto;
     }
   }

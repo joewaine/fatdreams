@@ -73,7 +73,7 @@
 <!-- italian version -->
 
 
-<div class="fat-container italian">
+<div class="fat-container italian"style="display: none;">
   
   <h1 style="font-size:30px;font-family: cursive;">Raccogliere fondi per gli sforzi di soccorso in Andria e Seattle.</h1><p style="font-family: cursive;">Il <b>100%</b>b> di tutte le vendite andrà direttamente a <a href="https://www.marysplaceseattle.org/" style="color:#ffffff;" target="_blank">Mary's Place a Seattle, negli Stati Uniti</a> e alla <a href="https://www.casaaccoglienza.com/" style="color:#ffffff;" target="_blank">e alla Casa Di Accoglienza ad Andria, in Italia</a></h1>
 <h1 style="font-size:30px;"><a href="http://halfshellrecords.bandcamp.com/album/fat-dreams-of-italy" target="_blank"><b><span style="color:white;text-decoration: underline;font-family: cursive;">Ottieni l'album</b></a></h1>
@@ -118,12 +118,21 @@
   <script>
   
 
+  $('#english').css('text-decoration','underline');
+  $('.fat-container.italian').hide();
+
 $('#english').click(function(){
-  $('.fat-container.english').toggle();;
+  $('.fat-container.english').show();
+  $('.fat-container.italian').hide();
+   $('#english').css('text-decoration','underline');
+   $('#italian').css('text-decoration','none');
 });
 
 $('#italian').click(function(){
-  $('.fat-container.italian').toggle();
+  $('.fat-container.english').hide();
+  $('.fat-container.italian').show();
+  $('#italian').css('text-decoration','underline');
+  $('#english').css('text-decoration','none');
 });
   
   </script>
