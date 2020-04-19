@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+body{background: #eee;line-height: 2em;}
+*{text-align: center;}
+img{
+    width:80%;
+    /*float: left;*/
+    margin: 0 auto;
+}
+img.zach{
+    width:10%;
+    /*height: 100vh*/
+}
+@media screen and (max-width: 960px) {
+img{
+    width:80%;
+    margin: 0 auto;
+    /*float: left;*/
+}
+}
+.videoWrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+}
+.videoWrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+.container {
+    position: relative;
+    width: 80%;
+    height: 0;
+    padding-bottom: 56.25%;
+    margin: 0 auto;
+}
+.video {
+    position: absolute;
+    top: 0;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    transform: translateX(0%);
+    
+}
+
+  </style>
+
+</head>
+<body>
+<h1 style="color: blue;">20 Little Machines</h1>
+
+<p style="color:red;">
+    Hi Kelsey, here is my presentation on my 20 little machines concept that I am happy to share with you today. I hope you get a good understanding of what I am trying to accomplish with these photos, one old drawing, and the embedded video.
+
+</p>
+
+<br>
+<img src="img/1.jpg" alt="1" />
+<br>
+<img src="img/2.jpg" alt="2" />
+<br>
+<img src="img/3.jpg" alt="3" />
+<br>
+<img src="img/4.jpg" alt="4" />
+<br>
+<img src="img/5.jpg" alt="5" />
+<br>
+<img src="img/6.jpg" alt="6" />
+<br>
+<div class="container">
+    <iframe src="https://www.youtube.com/embed/QRcQ-SQSnZU" 
+    frameborder="0" allowfullscreen class="video"></iframe>
+    </div>
+
+
+
+
+
+
+
+</body>
+</html>
